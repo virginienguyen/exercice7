@@ -1,0 +1,72 @@
+.line1 {
+    display: flex;
+    height: 30px;
+  }
+  .green {
+    flex: 80%;
+    background-color:springgreen;
+    color: springgreen;
+  }
+  .blue {
+    flex: 20%;
+    background-color:  royalblue;
+    color: royalblue;
+  }
+
+  .line2 {
+    display: flex;
+    height: 120px;
+  }
+  .brique {
+    flex: 33%;
+    height:100%;
+    background-color:tomato;
+    color:tomato;
+  }
+  .orange {
+    flex: 33%;
+    height: 50%;
+    background-color:orange;
+    color:orange;
+  }
+  .grey {
+    flex: 33%;
+    height:50%;
+    background-color:slategray;
+    color:slategray;
+  }
+
+  .yellow {
+    flex: 22%;
+    height:50%;
+    width: 66%;
+    background-color:palegoldenrod;
+    color:palegoldenrod;
+  }
+
+  .turquoise {
+    flex: 22%;
+    height:50%;
+    width: 66%;
+    background-color:teal;
+    color:teal;
+  }
+
+  .terra {
+    flex: 22%;
+    height:50%;
+    width: 66%;
+    background-color:sienna;
+    color:sienna;
+  }
+  
+.line4{
+    display: flex;
+    height: 150px;
+}
+.grey2 {
+    flex: 100%;
+    height:100%;
+    background-color:rgb(69, 73, 76);
+    color:rgb(69, 73, 76);
+}
